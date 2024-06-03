@@ -4,7 +4,7 @@ This is the code repository of the following [paper](...TODO...) to perform data
 
 "Preserving real-world robustness of neural networks under sparsity constraints"\
 <em>Jasmin Viktoria Gritsch, Robert Legenstein, Ozan Özdenizci</em>\
-ECML PKDD, 2024.
+European Conference on Machine Learning and Knowledge Discovery in Databases (ECML-PKDD), 2024.
 
 ## Reference
 If you use this code or models in your research and find it helpful, please cite the following paper:
