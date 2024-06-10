@@ -23,5 +23,8 @@ Authors of this work are affiliated with Graz University of Technology, Institut
 
 Parts of this code repository is based on the following works:
 
+* https://github.com/pralab/ImageNet-Patch
 * https://github.com/inspire-group/hydra
-* ...
+* https://github.com/allenai/hidden-networks
+* https://github.com/andyzoujm/pixmix
+* https://github.com/uoguelph-mlrg/Cutout
