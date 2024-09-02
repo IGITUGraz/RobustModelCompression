@@ -1,6 +1,6 @@
 # Preserving Real-World Robustness of Neural Networks Under Sparsity Constraints
 
-This is the code repository of the following [paper](...TODO...) to perform data augmentation driven model compression to maintain out-of-distribution generalization and preserve robustness against universal adversarial patch attacks.
+This is the code repository of the following [paper](https://link.springer.com/content/pdf/10.1007/978-3-031-70362-1_20.pdf?pdf=inline%20link) to perform data augmentation driven model compression to maintain out-of-distribution generalization and preserve robustness against universal adversarial patch attacks.
 
 "Preserving real-world robustness of neural networks under sparsity constraints"\
 <em>Jasmin Viktoria Gritsch, Robert Legenstein, Ozan Özdenizci</em>\
